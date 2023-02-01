@@ -1,0 +1,4 @@
+SQLALchemy==2.0.0
+Pydantic==1.10.2
+Fastapi==0.89.1
+Uvicorn==0.20.0
